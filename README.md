@@ -100,7 +100,7 @@ particle-sim/
 └─ docs/
 
 ## Developement method and step by step plan
-#### phase 0 -- setup
+phase 0 -- setup
     - install toolchian: gcc/clang, SDL2 dev libs, python with numpy and matplotlib
     - create git repo and initial Makefile.
 #### phase 1 -- math primitive and single particle
